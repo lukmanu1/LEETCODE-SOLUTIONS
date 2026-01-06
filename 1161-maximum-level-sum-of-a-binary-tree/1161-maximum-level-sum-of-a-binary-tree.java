@@ -14,50 +14,46 @@
  * }
  */
 class Solution {
-    Integer level = 0;
-    public void inorderTraversal(TreeNode root, int k, List<Integer> list){
-        if(root == null)return ;
 
-        Integer val = list.get(k);
-        
-        list.set(k, val + root.val);
-        
+    public int levelOrderTraversal(TreeNode root){
+        Queue<TreeNode> queue = new LinkedList<>();
 
-        inorderTraversal(root.left, k + 1, list);
-        inorderTraversal(root.right, k + 1, list);
+        queue.offer(root);
 
-    }
+        int maxSum = Integer.MIN_VALUE;
+        int level = 0;
+        int levelSum = 0;
+        int currLevel = 0;
 
-    public void findLevel(TreeNode root, int currLevel){
-        if(root == null)return;
+        int size = 0;
 
-        level = Math.max(currLevel, level);
-        
-        findLevel(root.left, currLevel + 1);
-        findLevel(root.right, currLevel + 1);
-    }
-    
-    public int maxLevelSum(TreeNode root) {
+        TreeNode temp = null;
 
-        findLevel(root, 0);
+        while(!queue.isEmpty()){
+            size = queue.size();
+            levelSum = 0;
+            currLevel++;
 
+            for(int i = 0; i<size; i++){
+                temp = queue.poll();
+                levelSum += temp.val;
 
-        List<Integer> list = new ArrayList<>();
-        for(int i = 0; i<=level; i++)list.add(0);
+                if(temp.left != null)queue.offer(temp.left);
+                if(temp.right != null)queue.offer(temp.right);
+            }
 
-        inorderTraversal(root, 0, list);
+            // System.out.println(levelSum+" "+currLevel);
 
-        int ans[] = new int[2];
-        ans[0] = Integer.MIN_VALUE;
-        ans[1] = -1;
-
-        for(int i = 0 ; i<list.size(); i++){
-            if(ans[0] < list.get(i)){
-                ans[0] = list.get(i);
-                ans[1] = i;
+            if(levelSum > maxSum ){
+                maxSum = levelSum;
+                level = currLevel;
             }
         }
-        
-        return ans[1] + 1;
+
+
+        return level;
+    }
+    public int maxLevelSum(TreeNode root) {
+        return levelOrderTraversal(root);
     }
 }
