@@ -65,12 +65,18 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
