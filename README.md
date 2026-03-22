@@ -58,3 +58,19 @@ This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](
 ---
 
 Feel free to customize this template based on your specific needs or preferences!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+<!---LeetCode Topics End-->
