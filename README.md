@@ -93,8 +93,10 @@ Feel free to customize this template based on your specific needs or preferences
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
 <!---LeetCode Topics End-->
