@@ -99,4 +99,12 @@ Feel free to customize this template based on your specific needs or preferences
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
