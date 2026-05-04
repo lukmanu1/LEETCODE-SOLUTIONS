@@ -64,6 +64,7 @@ Feel free to customize this template based on your specific needs or preferences
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -72,6 +73,7 @@ Feel free to customize this template based on your specific needs or preferences
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
