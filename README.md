@@ -109,4 +109,12 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
