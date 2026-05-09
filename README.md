@@ -70,6 +70,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0048-rotate-image](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0054-spiral-matrix/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
