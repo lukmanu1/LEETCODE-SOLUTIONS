@@ -70,6 +70,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Feel free to customize this template based on your specific needs or preferences
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
+| [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
