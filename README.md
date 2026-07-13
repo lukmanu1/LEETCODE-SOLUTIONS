@@ -65,6 +65,7 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -121,5 +122,6 @@ Feel free to customize this template based on your specific needs or preferences
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
