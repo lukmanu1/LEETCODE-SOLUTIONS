@@ -1,16 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int map[] = new int[203];
-        for(int val : nums)map[val+100]++;
-        int k=0;
-        for(int i=0;i<202;i++){
-            if(map[i] >= 1){
-                nums[k] = i-100;
-                k++;
+        int i =1, j = 0;
+
+        for(i = 1; i<nums.length; i++){
+            if(nums[i] != nums[j]){
+                nums[j + 1] = nums[i];
+                j++;
             }
         }
 
-        return k;
-    
+        return j + 1;
     }
 }
