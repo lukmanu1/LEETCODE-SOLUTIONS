@@ -1,26 +1,42 @@
 class Solution {
-    public int findCount(int prices[], int index, int bought, int count, int dp[][][]){
-        if(index == prices.length || (count == 2 && bought == 0))return 0;
-
-        if(dp[index][bought][count] != -1)return dp[index][bought][count];
-
-        int x = 0, y = 0;
-        if(bought == 0){
-            x = findCount(prices, index + 1, 1, count + 1, dp) - prices[index];
-            y = findCount(prices, index + 1, 0, count, dp);
-        }else if(bought == 1){
-            x = findCount(prices, index + 1, 0, count, dp) + prices[index];
-            y = findCount(prices, index + 1, 1, count, dp);
-        }
-
-        return dp[index][bought][count] = Math.max(x , y);
-    }
     public int maxProfit(int[] prices) {
-        int dp[][][] = new int[prices.length][2][3];
+        int dp[][] = new int[2][3];
+        int curr[][] = new int[2][3];
+        dp[0][0] = 0;
+        dp[0][1] = 0;
+        dp[0][2] = 0;
+        dp[1][0] = 0;
+        dp[1][1] = 0;
+        dp[1][2] = 0;
+        for(int i = prices.length - 1; i>=0; i--){
+            for(int bought = 0; bought<2; bought++){
+                for(int count = 0; count < 3; count++){
+                    if(bought == 0){
+                        int notBuy = dp[0][count];
+                        int buy = 0;
 
-        for(int i = 0; i<prices.length; i++){
-            for(int j = 0; j<2; j++)Arrays.fill(dp[i][j], -1);
+                        if(count < 2){
+                            buy = dp[1][count + 1] - prices[i];
+                        }
+
+                        curr[bought][count] = Math.max(buy, notBuy);
+                    }else{
+
+                        int notSell = dp[1][count];
+
+                        int sell = dp[0][count] + prices[i];
+
+                        curr[bought][count] = Math.max(notSell, sell);
+                    }
+                }
+            }
+
+            int temp[][] = dp;
+            dp = curr;
+            curr = temp;
         }
-        return findCount(prices, 0, 0, 0, dp);
+
+
+        return dp[0][0];
     }
 }
