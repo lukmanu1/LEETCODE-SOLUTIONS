@@ -71,6 +71,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -80,6 +81,7 @@ Feel free to customize this template based on your specific needs or preferences
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -107,12 +109,14 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
 | [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0796-rotate-string](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0796-rotate-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -128,4 +132,16 @@ Feel free to customize this template based on your specific needs or preferences
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
