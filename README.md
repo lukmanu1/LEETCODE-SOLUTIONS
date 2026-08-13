@@ -75,6 +75,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Feel free to customize this template based on your specific needs or preferences
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0796-rotate-string](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0796-rotate-string/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,12 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
