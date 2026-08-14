@@ -84,6 +84,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0073-set-matrix-zeroes](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0796-rotate-string](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0796-rotate-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +156,8 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
