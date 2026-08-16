@@ -75,6 +75,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
@@ -107,6 +108,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0048-rotate-image](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,28 @@ Feel free to customize this template based on your specific needs or preferences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
