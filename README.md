@@ -74,6 +74,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1563-stone-game-v](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1563-stone-game-v/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -108,6 +109,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0048-rotate-image](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
+| [1563-stone-game-v](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Feel free to customize this template based on your specific needs or preferences
 | [0140-word-break-ii](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0140-word-break-ii/) | Hard |
 | [0396-rotate-function](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/0788-rotated-digits/) | Medium |
+| [1563-stone-game-v](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1563-stone-game-v/) | Hard |
 | [3660-jump-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/3660-jump-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -177,6 +180,7 @@ Feel free to customize this template based on your specific needs or preferences
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/LUKMANULHAKEEM-prg/LEET-CODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
